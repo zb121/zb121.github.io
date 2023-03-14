@@ -1,9 +1,11 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: 周兵
+date: 2023-03-19
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+* 周兵
+* 上海科技大学-信息学院-计算机科学与技术
+* 记录个人学习历程 & 小两口的生活日常
